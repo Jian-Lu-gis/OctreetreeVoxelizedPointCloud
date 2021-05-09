@@ -1,0 +1,216 @@
+﻿  util.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+d:\deeplearning\o-cnn\ocnn\octree\src\octree\util.cpp(221): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\deeplearning\o-cnn\ocnn\octree\src\octree\util.cpp(222): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\deeplearning\o-cnn\ocnn\octree\src\octree\util.cpp(223): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\deeplearning\o-cnn\ocnn\octree\src\octree\util.cpp(224): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\deeplearning\o-cnn\ocnn\octree\src\octree\util.cpp(225): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\deeplearning\o-cnn\ocnn\octree\src\octree\util.cpp(226): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\deeplearning\o-cnn\ocnn\octree\src\octree\util.cpp(227): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\deeplearning\o-cnn\ocnn\octree\src\octree\util.cpp(228): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\deeplearning\o-cnn\ocnn\octree\src\octree\util.cpp(229): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+d:\deeplearning\o-cnn\ocnn\octree\src\octree\util.cpp(264): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\deeplearning\o-cnn\ocnn\octree\src\octree\util.cpp(265): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test.cpp
+c1xx : warning C4199: C++/CLI、C++/CX 或 OpenMP 不支持两阶段名称查找；请使用 /Zc:twoPhase-
+  Unknown compiler version - please run the configure tests and report the results
+c:\program files\pcl 1.8.1\include\pcl-1.8\pcl\point_traits.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\pcl 1.8.1\include\pcl-1.8\pcl\visualization\interactor_style.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\program files\pcl 1.8.1\include\pcl-1.8\pcl\visualization\pcl_visualizer.h(1584): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(8): warning C4101: “p”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(108): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(191): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(200): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(210): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(211): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(212): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(237): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(296): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(297): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(298): warning C4267: “=”: 从“size_t”转换到“uint8_t”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(319): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\octree.h(351): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\similarity.h(30): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(89): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(180): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(45): warning C4101: “c”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(45): warning C4101: “d”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(710): warning C4102: “mark”: 未引用的标签
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(705): warning C4101: “maxnum”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(926): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1009): warning C4101: “Wdis”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1000): warning C4101: “a”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1000): warning C4101: “b”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1000): warning C4101: “c”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1000): warning C4101: “d”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1167): warning C4102: “mark”: 未引用的标签
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1310): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1323): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1293): warning C4101: “c”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1293): warning C4101: “d”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1415): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1399): warning C4101: “c”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1399): warning C4101: “d”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1594): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1607): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1583): warning C4101: “c”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1583): warning C4101: “d”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1691): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1734): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1737): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1737): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1768): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1771): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1771): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1802): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1805): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1805): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1872): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1857): warning C4101: “c”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(1857): warning C4101: “d”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\newpoints.h(229): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\newpoints.h(237): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\newpoints.h(245): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\newpoints.h(252): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\newpoints.h(259): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\newpoints.h(267): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(773): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(774): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(816): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(816): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(821): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(821): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(887): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(887): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(891): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(892): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(895): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(895): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(923): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(924): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(966): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(966): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(971): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(971): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1045): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1046): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1074): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1074): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1079): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1079): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1131): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1131): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1135): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1136): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1139): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1139): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1167): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1168): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1196): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1196): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1201): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1201): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1275): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1276): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1318): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1318): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1323): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1323): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1389): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1389): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1393): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1394): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1397): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1397): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1425): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1426): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1468): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1468): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1473): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1473): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1521): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1522): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1602): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1603): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1669): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\dataattributes.h(1670): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(9): warning C4102: “mark”: 未引用的标签
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(7): warning C4101: “a”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(7): warning C4101: “e”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(7): warning C4101: “b”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(7): warning C4101: “f”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(7): warning C4101: “c”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(7): warning C4101: “h”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(7): warning C4101: “g”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(7): warning C4101: “d”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(137): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(138): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(166): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(167): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(100): warning C4101: “trainTransform”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(104): warning C4101: “testTransform”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(105): warning C4101: “testPoints”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(93): warning C4101: “h”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(93): warning C4101: “g”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(101): warning C4101: “trainPoints”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(254): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(254): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(282): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(282): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(311): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(311): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(191): warning C4102: “mark”: 未引用的标签
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(390): warning C4101: “valPoints”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(387): warning C4101: “testPoints”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(384): warning C4101: “trainPoints”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(589): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(590): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(622): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(699): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(918): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(919): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(920): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(957): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1027): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1027): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1027): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1027): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(883): warning C4101: “e”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(883): warning C4101: “f”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1060): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1073): warning C4101: “classification_filed_num”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1165): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1178): warning C4101: “classification_filed_num”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1253): warning C4101: “c”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1253): warning C4101: “d”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1325): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1326): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1327): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1380): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1380): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1380): warning C4477: “sprintf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 3 拥有了类型“size_t”
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1380): note: 请考虑在格式字符串中使用“%zd”
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1289): warning C4101: “e”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1289): warning C4101: “f”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1289): warning C4101: “c”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\pcd2points.h(1289): warning C4101: “d”: 未引用的局部变量
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\visualization.h(166): warning C4806: “==”: 不安全操作: 从类型“bool”提升到类型“int”的值不能等于给定的常量
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\visualization.h(323): note: 参见对正在编译的函数 模板 实例化“void pp_callback<PointType>(const pcl::visualization::AreaPickingEvent &,void *)”的引用
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\login.h(292): note: 参见对正在编译的函数 模板 实例化“void Visualization<PointType>(boost::shared_ptr<pcl::PointCloud<PointType>>,boost::shared_ptr<pcl::PointCloud<PointType>>,bool,std::string,bool)”的引用
+  c:\program files\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(54): note: 参见对正在编译的 类 模板 实例化 "boost::arg<9>" 的引用
+  c:\program files\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(53): note: 参见对正在编译的 类 模板 实例化 "boost::arg<8>" 的引用
+  c:\program files\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(52): note: 参见对正在编译的 类 模板 实例化 "boost::arg<7>" 的引用
+  c:\program files\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(51): note: 参见对正在编译的 类 模板 实例化 "boost::arg<6>" 的引用
+  c:\program files\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(50): note: 参见对正在编译的 类 模板 实例化 "boost::arg<5>" 的引用
+  c:\program files\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(49): note: 参见对正在编译的 类 模板 实例化 "boost::arg<4>" 的引用
+  c:\program files\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(48): note: 参见对正在编译的 类 模板 实例化 "boost::arg<3>" 的引用
+  c:\program files\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(47): note: 参见对正在编译的 类 模板 实例化 "boost::arg<2>" 的引用
+  c:\program files\pcl 1.8.1\3rdparty\boost\include\boost-1_64\boost\bind\placeholders.hpp(46): note: 参见对正在编译的 类 模板 实例化 "boost::arg<1>" 的引用
+d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\visualization.h(20): warning C4101: “cameraParameter”: 未引用的局部变量
+  d:\3d projects\octreetreevoxelizedpointcloud\octreetreevoxelizedpointcloud\visualization.h(324): note: 参见对正在编译的函数 模板 实例化“void keyboardEventOccurred<PointType>(const pcl::visualization::KeyboardEvent &,void *)”的引用
+  正在生成代码
+  527 of 15951 functions ( 3.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    206 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  OctreetreeVoxelizedPointCloud.vcxproj -> D:\3D Projects\OctreetreeVoxelizedPointCloud\x64\Release\OctreetreeVoxelizedPointCloud.exe
