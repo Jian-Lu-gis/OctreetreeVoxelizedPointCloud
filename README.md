@@ -16,4 +16,4 @@ After compiling the program, first need to enter the working directory path, the
 * SelectedData
 * SimplifiedRawData
   
-Please contact me (jian.lu.giscience@hotmail.com) if you have any problems about our implementation.
+Please contact us (jian.lu.giscience@hotmail.com,jianhua.chen.giscience@hotmail.com) if you have any problems about our implementation.
