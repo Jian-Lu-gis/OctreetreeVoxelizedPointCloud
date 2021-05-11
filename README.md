@@ -1,12 +1,12 @@
 # OctreetreeVoxelizedPointCloud
-PCL - based point cloud processing and experimental data preparation software  
-The main function：  
-1.Point cloud visualization  
-2.Octree computation  
-3.PCD->Points  
-4.Create a dataset file  
+PCL-based point cloud processing and experimental data preparation software.  
+functions are：  
+1. Point cloud visualization  
+2. Octree computation  
+3. PCD->Points  
+4. Create a dataset file  
 ...  
-After compiling the program, first need to enter the working directory path, the working directory must include such as subdirectories
+After compiling the program, you first need to enter the working directory, which must includes the following subdirectories.
 * Boundary  
 * ClassifiedData
 * Filtering
@@ -16,4 +16,4 @@ After compiling the program, first need to enter the working directory path, the
 * SelectedData
 * SimplifiedRawData
   
-Please contact us (jian.lu.giscience@hotmail.com,jianhua.chen.giscience@hotmail.com) if you have any problems about our implementation.
+Please contact us (jian.lu.giscience@hotmail.com,jianhua.chen.giscience@hotmail.com) if you have any questions about our implementation.
