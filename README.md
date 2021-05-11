@@ -1,6 +1,6 @@
 # OctreetreeVoxelizedPointCloud
 PCL-based point cloud processing and experimental data preparation software.  
-The functions are as follows：  
+The functions are as follows.  
 1. Point cloud visualization  
 2. Octree computation  
 3. PCD->Points  
